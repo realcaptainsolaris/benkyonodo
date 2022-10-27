@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benkyonodo
 - 👀 I’m interested in teaching and programming python, besides other stuff
-- 🌱 I’m currently learning rust
+- 🌱 Rust lover
 - 📫 How to reach me hello@spielprinzip.com
 
 <!---
